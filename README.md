@@ -1,3 +1,3 @@
 # awesome-angular
 
-lol
+lol nothing is awesome about angular
